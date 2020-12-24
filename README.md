@@ -1,5 +1,6 @@
-#Alex Perez
+# Alex Perez
 
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexperez-cst)](https://github.com/anuraghazra/github-readme-stats)
 ![Codewars Info](https://www.codewars.com/users/alexperezcst/badges/large)
 
 
