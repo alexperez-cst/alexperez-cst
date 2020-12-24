@@ -1,5 +1,5 @@
 ### Hi there 👋
-[](https://www.codewars.com/users/alexperezcst/badges/large)
+![Codewars Info](https://www.codewars.com/users/alexperezcst/badges/large)
 <!--
 **alexperez-cst/alexperez-cst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
