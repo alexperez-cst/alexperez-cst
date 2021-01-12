@@ -4,15 +4,15 @@
 ### Skills
 * Javascript 🧩
 * HTML (I hate CSS) 🏗️
+* React ⚛️
 
 ### Currently Learning
 * React ⚛️
+* Mathematics (This will never disapear from here)
 
-### Things that I want learn (Chronologically)
-0. Backend Dev 💾
-1. Low Level Programming (Compilers,O.S,C++,Rust,...) 👨‍💻
-2. Deep dive on Computer Science and Computation 📕
-3. Machine Learning & Deep Learning 🧠
+### CS Stuff that i'm interested (Chronologically)
+0. Deep dive on Computer Science and Computation 📕
+1. Machine Learning & Deep Learning 🧠
 
 [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=alexperez-cst)](https://github.com/anuraghazra/github-readme-stats)
 
